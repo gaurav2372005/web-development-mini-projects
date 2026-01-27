@@ -1,0 +1,38 @@
+#container{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+   
+
+}
+button{
+font-size: 1em;
+padding: 10px 15 px;
+border-radius: 10px;
+border:none;
+background-color: rgb(150, 57, 238);
+color:white;
+font-weight: bold;
+cursor: pointer;
+}
+button:hover
+{
+    background-color: blue;
+}
+button:active{
+    background-color: brown;
+}
+input{
+    font-size: 1em;
+    width:150px;
+    font-weight:bold ;
+} 
+#diceresult{
+    margin:25px;
+
+}
+
+#diceimages img {
+    width : 150px;
+    margin: 5px;
+}
